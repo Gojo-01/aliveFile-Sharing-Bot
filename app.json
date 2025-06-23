@@ -8,27 +8,27 @@
   "env": {
       "API_ID": {
           "description": "Your APP ID From my.telegram.org ",
-          "value": "",
+          "value": "22404215",
           "required": true
       },
       "API_HASH": {
           "description": "Your API Hash From my.telegram.org ",
-          "value": "",
+          "value": "5745e52cf0fab6771b5a0254c4732ebc",
           "required": true
       },
       "BOT_TOKEN": {
           "description": "Your Bot Token From @BotFather",
-          "value": "",
+          "value": "8065351204:AAGhIWDlGyuJS0mEwTrZkmHL0NQkIiwa8N4",
           "required": true
       },
       "OWNER_ID": {
         "description":"Add Your User ID here",
-        "value": "",
+        "value": "5147788083",
         "required": true
       },
       "CHANNEL_ID": {
           "description":"Make a channel (database channel), then make the bot as admin in channel, and it's id",
-          "value": "",
+          "value": "1002815507149",
           "required": true          
       },
       "FORCE_SUB_CHANNEL": {
@@ -38,12 +38,12 @@
       },
       "DB_URL": {
           "description": "Your Mongo DB Database URL",
-          "value": "",
+          "value": "mongodb+srv://jaishobhit7:<db_password>@cluster0.irtrvhd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
           "required": true
       },
       "DB_NAME":{ 
           "description":"Your Mongo DB Database Name",
-          "value": "madflixbotz",
+          "value": "alive_database",
           "required": false
       },
       "START_MESSAGE": {
